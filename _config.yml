@@ -1,6 +1,6 @@
-title: One Page Wonder - Jekyll
-description: A Jekyll Landing Page Theme
-sitename: Your Website
+title: REmatch - AI
+description: Accelerating drug discovery through image profiling
+sitename: rematch.ai
 baseurl: '/one-page-wonder-jekyll'
 sass:
   sass_dir: /assets/_sass
