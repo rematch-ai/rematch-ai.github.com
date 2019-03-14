@@ -12,14 +12,14 @@ header {
 
   h1 {
     font-size: 130px;
-    background: #fff;
+    color: rgba(255,255,255,1);
     background: rgba(25,25,25,0.1);
   }
 
   h2 {
     font-size: 77px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
+    color: rgba(255,255,255,1);
+    background: rgba(25,25,25,0.1);
   }
 
   @media(max-width:1200px) {
