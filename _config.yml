@@ -1,7 +1,7 @@
 title: REmatch - AI
 description: Accelerating drug discovery through image profiling
 sitename: rematch.ai
-baseurl: '/one-page-wonder-jekyll'
+baseurl: 'https://rematch-ai.github.io/'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
