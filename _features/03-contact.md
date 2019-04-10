@@ -6,8 +6,7 @@ subheading:
 image: ""
 ---
 
-<div class="col-sm-4">
-  ## Heading 2
+<div>
   ![Person 1](/assets/images/people/flo.png)
   Some **bold** text.
 </div>
