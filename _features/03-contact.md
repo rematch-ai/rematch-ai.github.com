@@ -6,10 +6,7 @@ subheading:
 image: ""
 ---
 
-<div>
-  ![Person 1](/assets/images/people/flo.png)
-  Some **bold** text.
-</div>
+{% include image.html url="/assets/images/people/flo.png" description="Systems Biologist" %}
 
 ![Person 2](/assets/images/people/chris.png)
 
