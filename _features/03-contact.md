@@ -7,8 +7,7 @@ image: ""
 ---
 
 ![Person 1](/assets/images/people/flo.png)
-*Systens Biologist*
-{% include twitter_code.html %}
+*Systens Biologist*{% include twitter_code.html %}
 
 ![Person 2](/assets/images/people/chris.png)
 
