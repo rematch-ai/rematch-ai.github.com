@@ -6,7 +6,8 @@ subheading:
 image: ""
 ---
 
-{% include test_image.html url="/assets/images/people/flo.png" description="Systems Biologist" %}
+![Person 1](/assets/images/people/flo.png)
+*Systens Biologist*
 
 ![Person 2](/assets/images/people/chris.png)
 
