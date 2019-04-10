@@ -1,8 +1,8 @@
 ---
 id: services
 name: Services
-heading: Multi-parametric analyses 
-subheading: made easy
+heading: Multi-parametric analyses made easy 
+subheading: 
 image: "/assets/images/mission/fig5_v1_fordisclosure_modCS.png"
 ---
 

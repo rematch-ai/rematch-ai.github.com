@@ -1,8 +1,8 @@
 ---
 id: contact
 name: Contact
-heading: The Third Heading
-subheading: Will Seal the Deal.
+heading: Our Team
+subheading: 
 image: ""
 ---
 
