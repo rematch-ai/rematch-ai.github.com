@@ -12,7 +12,7 @@ Florian Heigwer
 {% include twitter_code.html %}  
 {:style="clear: left"}  
 <p align="center">
-  ![Person 2](/assets/images/people/chris_small.png)
+  <img src="/assets/images/people/chris_small.png"> 
   <b>Christian Scheeder</b><br>
   *Systems Biologist*
   {% include twitter_code.html %} |
