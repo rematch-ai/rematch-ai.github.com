@@ -1,3 +1,13 @@
-ul#twitter-list {
-display: inline;
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
 }
+
+ul#twitter-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#twitter-list li {
+		display: inline;
+	}
