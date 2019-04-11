@@ -6,7 +6,7 @@ subheading:
 image: ""
 ---
 
-![Person 1](/assets/images/people/flo_small.png){: .align-left}
+![Person 1](/assets/images/people/flo_small.png){: .align-left}  
 Florian Heigwer  
 *Systems Biologist*  
 {% include twitter_code.html %}  
