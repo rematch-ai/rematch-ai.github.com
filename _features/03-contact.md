@@ -9,7 +9,7 @@ image: ""
 ![Person 1](/assets/images/people/flo_small.png)  
 Florian Heigwer
 *Systems Biologist*  
-![Person 2](/assets/images/people/chrs_small.png)
+![Person 2](/assets/images/people/chris_small.png)
 Christian Scheeder
 *Systems Biologist*  
 ![Person 3](/assets/images/people/thilo_new_small.png)  
