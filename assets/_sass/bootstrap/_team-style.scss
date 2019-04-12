@@ -18,11 +18,10 @@ ul#team-list {
   margin: 0px auto;
   padding: 0;
 	list-style: none;
-	min-width:170px;
-	overflow-x: scroll;
+	white-space: nowrap;
 	}
 	ul#team-list li {
-    display: inline-block;
+    display: inline;
     flex: 0 1 auto; /* Default */
     list-style-type: none;
 	}
