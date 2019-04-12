@@ -18,6 +18,8 @@ ul#team-list {
   margin: 0px auto;
   padding: 0;
 	list-style: none;
+	overflow-x: scroll;
+	hite-space: nowrap;
 	}
 	ul#team-list li {
     display: block;
