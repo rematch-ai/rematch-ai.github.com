@@ -1,6 +1,6 @@
 ---
-id: contact
-name: Contact
+id: team
+name: Team
 ---
 {:.text-center}
 <h2>Our Team</h2>  
