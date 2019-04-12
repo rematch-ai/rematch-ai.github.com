@@ -13,6 +13,8 @@
 
 ul#team-list {
   display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
   align-items: stretch; /* Default */
   justify-content: space-between;
   margin: 0px auto;
