@@ -10,7 +10,7 @@ collections:
 twitter_username_cs:     chri_sche
 twitter_username_fh:     FlorianHeigwer
 google_username_fh:      QEUKuFMAAAAJ
-linkedin_username_fh:     florian-heigwer
+linkedin_username_fh:    florian-heigwer-258a5ba6
 exclude:
   - Gemfile
   - Gemfile.lock
