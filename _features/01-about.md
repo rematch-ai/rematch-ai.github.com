@@ -1,9 +1,8 @@
 ---
 id: about
 name: About
-heading: Image-based profiling for deep phenotyping of small molecules 
 subheading: 
-image: ""
 ---
-
+{:.text-justify}
+<h2>Image-based profiling for deep phenotyping of small molecules</h2>  
 We enbale large-scale profiling of small molecules by providing pipelines for AI empowered image and data analyses.
