@@ -9,7 +9,7 @@ collections:
   - features
 twitter_username_cs:     chri_sche
 twitter_username_fh:     FlorianHeigwer
-twitter_username_fh:     Florian Heigwer
+google_username_fh:      QEUKuFMAAAAJ
 exclude:
   - Gemfile
   - Gemfile.lock
