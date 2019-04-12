@@ -13,4 +13,5 @@ Florian Heigwer
 Christian Scheeder
 *Systems Biologist*
 ![Person 3](/assets/images/people/thilo_new_small.png)
-*Bioengineer* {% include twitter_code.html %}
+*Bioengineer*
+{% include twitter_code.html %}
