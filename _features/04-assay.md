@@ -7,4 +7,4 @@ name: Rematch-Assays
 <h2>Rematch-Assays: Robust and efficient assays for <bold>your</bold> drug discovery</h2>  
 <img style="float: center;" src="/assets/images/mission/assays.png" alt="REmatch overview" vspace="50">  
 {:.text-center}
-Our analytical solutions allow multi-parametric analyses to characterise large compound libraries in a highly parallel fashion.
+In addition to our analytical solutions we offer our expertise in assay development. Thsi way we can help you to establish your assay of choice and to get the most out of image-based profiling.
