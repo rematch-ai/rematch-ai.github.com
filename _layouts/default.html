@@ -4,7 +4,7 @@ layout: compress
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body>
+  <body data-spy="scroll" data-target=".navbar" data-offset="50">
   	{% include navigation.html %}
   	{{ content }}
   	<script src='{{ site.baseurl }}/assets/app.js'></script>
