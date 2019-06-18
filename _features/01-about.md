@@ -10,5 +10,5 @@ High-content imaging provides a cost-effective solution to capture a broad range
 
 We provide:
 1.  High performant, cloud-based image analysis tools
-2.  State of the Art Mcihine learning to mine vast data from image based screens
+2.  State of the Art machine learning to mine vast data from image-based screens
 3.  Long standing expertise in assay development and image-based screening campaigns accelerating drug discovery
