@@ -6,4 +6,4 @@ subheading:
 {:.text-center}
 <h2>Image-based profiling for deep phenotyping of small molecules</h2>  
 {:.text-center}
-We enable large-scale profiling of small molecules by providing pipelines for AI empowered image and data analyses.
+We remove the bottleneck to convert huge amount of high-content screening images to interpretable data for drug discovery and repurposing.
