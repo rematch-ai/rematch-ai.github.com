@@ -1,6 +1,6 @@
 title: Rematch-AI
-description: Supporting drug discovery through image-based profiling
-sitename: Rematch-AI
+description: Artificial intelligence and image-based profiling for drug discovery and repurposing
+sitename: REmatch AI
 baseurl: ''
 sass:
   sass_dir: /assets/_sass
